@@ -11,12 +11,9 @@
 1.3. На основе групп засеваемых культур.
 1.4. Комбинированный.
 
-Обнаружено, что кластеры на основе разреженных векторов состава засеваемых культур очень слабо коррелируют с географическими кластерами:
-![vector_clusters](https://user-images.githubusercontent.com/11871192/111023406-f373c000-83e9-11eb-9f44-3fa3f1da8ef0.png)
-![geo_clusters](https://user-images.githubusercontent.com/11871192/111023407-f4a4ed00-83e9-11eb-9dd2-ee4ce716ee7c.png)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/11871192/111023406-f373c000-83e9-11eb-9f44-3fa3f1da8ef0.png" width="350" title="hover text">
-  <img src="https://user-images.githubusercontent.com/11871192/111023407-f4a4ed00-83e9-11eb-9dd2-ee4ce716ee7c.png" alt="accessibility text">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/11871192/111023406-f373c000-83e9-11eb-9f44-3fa3f1da8ef0.png" width="350" title="Посевы">
+  <img src="https://user-images.githubusercontent.com/11871192/111023407-f4a4ed00-83e9-11eb-9dd2-ee4ce716ee7c.png" width="350" title="География">
 </p>
 
 В качестве основного был выбран принцип кластеризации на основе разреженных векторов состава засеваемых культур. При кластеризации по этому принципу было выделено кластеры, содержащие 
